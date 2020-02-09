@@ -1,8 +1,11 @@
-h1{font-size: 30px; color: salmon;}
+h1{font-size: 30px; color: blue;}
 h2{font-size: 20px; color: green;}
 .big {
 	font-size: 50px; color: blue;
 }
 .uppercase{
 	text-transform: uppercase;
+}
+body{
+	background: salmon;
 }
